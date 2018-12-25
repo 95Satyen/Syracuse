@@ -1,5 +1,5 @@
 ########## Airline Customer Satisfaction ##########
-########## Satyen Amonkar   IST 687      ##########
+############# Satyen Amonkar IST 687 ##############
 
 ###### Data Wrangling and Munging ######
 
